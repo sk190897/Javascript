@@ -1,0 +1,15 @@
+git init
+
+git status
+
+git add "filename"
+
+git commit "message"
+
+git log - to check hash of snapshot
+
+git cat-file -p "hash"
+
+git log --all --graph --decorate
+
+git diff "hash" "file"
